@@ -7,4 +7,4 @@ Classes:
 - Fundamentals of Computer Science 1
 - Discrete Structures 
 - Financial Accounting and Reporting
-- Principles of Macroeconomics  
+- Principles of Macroeconomics 
