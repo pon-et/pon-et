@@ -1,5 +1,5 @@
 ### About Me!
-- I'm a second year student at Northeastern University majoring in Computer Science
+- I'm a third year student at Northeastern University majoring in Computer Science and Mathematics
 - In my free time, I like to play volleyball, explore the city, and watch the Knicks and Yankees
 
 ### Connect!
